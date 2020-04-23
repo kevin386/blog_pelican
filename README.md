@@ -1,2 +1,1 @@
-# blog_pelican
-generate blog by pelican
+# null386.github.io# kevin386.github.io

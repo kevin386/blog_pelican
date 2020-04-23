@@ -1,0 +1,18 @@
+[build-system]
+build-backend = "pdm.builders.api"
+requires = ["pdm"]
+
+[tool]
+[tool.pdm]
+author = "kevin <nullclard@gmail.com>"
+description = ""
+homepage = ""
+license = "MIT"
+name = "blog_pelican"
+python_requires = ">=3.7"
+version = "0.0.0"
+
+[tool.pdm.dependencies]
+
+[tool.pdm.dev-dependencies]
+
